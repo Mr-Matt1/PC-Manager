@@ -14,6 +14,7 @@ int main()
 		Menu.menu();
 		Menu.admin_tools();
 		Menu.network();
+		Menu.xlog();
 	}
 
 
