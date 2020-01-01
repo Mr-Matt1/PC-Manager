@@ -7,7 +7,7 @@ using namespace std;
 
 class Categories {
 public:
-	int choice;
+	char choice;
 	
 	void menu();
 	void admin_tools();
